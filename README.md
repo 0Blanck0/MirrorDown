@@ -1,14 +1,30 @@
 # MirrorDown
 
-Mirror Down est un jeu 3 D, créer début 2019, créer dans le cadre d'une initiation Unity et C#.
-Les dossiers nécessaires au développement on était perdu lors d'une erreur informatique le projet a donc été totalement abandonner.Dans ce jeu plusieurs niveaux vous sont proposés:
+## Description
+MirrorDown is a 3D game developed in early 2019 as part of an introduction to Unity and C#. Unfortunately, due to a critical data loss, all development files were lost, leading to the project's abandonment.
 
-N1 - Le premier niveau avait pour but de s'initier au placement d'objet dans un plan en 3 dimensions, modification basique de texture et de couleurs, compréhensions des boîtes de collision, etc.Ainsi le premier niveau est un plat formeur en 1er personne.Pour terminer le niveau plusieurs chemins sont possibles le but étant d'arriver au portail violet.
+In this game, several levels were designed with different gameplay mechanics:
 
-N2 - À partir du niveau 2 les méthodes et les modes de jeux qui constitue le niveau sont plus libre car le seul but rechercher par la présence de se troisième niveau était de tester un mode de jeu aérien et de comprendre les liens entre les niveaux (les scripts qui permettent de passer d'un niveau à l'autre) ainsi c'est lors de la création de ce troisième niveau qu'est apparu le premier ".exe" du jeu. Le but de ce deuxième niveau est tout simplement d'éviter les obstacles et de se poser sur la plate-forme située à l'autre bout du niveau.nous pouvons n'également notifier que c'est un monde linéaire par conséquent il faut aller toujours tout droit.En cas de mort une réapparition instantanée est faite au point de départ.
+## Levels
 
-N3 - Le niveau 3 avait été créer en plus de l'initiation dans un but de recherche personnelle sur la logique de jeu.Ainsi ce niveau est un niveau puzzle/labyrinthe ou le but est d'atteindre l'arbre caché dans la maison. Pour ce faire plusieurs interrupteurs cachés ou non permettent d'ouvrir des portes permettant l'accès aux différentes salles de la maison.
+### Level 1 - Platforming Basics
+The first level served as an introduction to object placement in a 3D environment, basic texture and color modifications, and collision box understanding. It is a first-person platformer where players must find their way to a purple portal using multiple possible paths.
 
-N4 - Le niveau 4 n'a jamais été fini, il existait dans le but de donner une continuité au jeu ainsi qu'un niveau supplémentaire mais il n'a jamais pu aboutir...
+### Level 2 - Aerial Mode & Level Transitions
+From this level onwards, gameplay became more experimental. The main goal was to test aerial movement and understand how scripts handle transitions between levels. This level marked the first executable (`.exe`) version of the game. The objective is to avoid obstacles and land safely on the platform at the other end of the level. Since it is a linear world, players must always move forward. In case of death, an instant respawn occurs at the starting point.
 
-À plusieurs endroits vous pourrez voir la mention "NoxProduction" qui était mon premier pseudo de développement veuillez ne plus y faire attention ceci n'étant plus d'actualité.
+### Level 3 - Puzzle & Maze
+This level was created beyond the initial learning phase as a personal experiment in game logic. It is a puzzle/maze where the goal is to reach a hidden tree inside a house. Various hidden or visible switches unlock doors, granting access to different rooms within the house.
+
+### Level 4 - Unfinished Concept
+Level 4 was intended to extend the game and introduce additional content but was never completed.
+
+## Notes
+- Throughout the game, the name "NoxProduction" may appear. This was the developer's original pseudonym and is no longer relevant.
+
+## Status
+This project remains abandoned due to the loss of development files.
+
+## License
+No official license applies as the project is incomplete and no longer maintained.
+
